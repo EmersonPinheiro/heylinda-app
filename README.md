@@ -20,6 +20,8 @@
 - current streak
 - calendar activity
 - time listened
+- offline support
+- manually enter meditation
 
 ## Install
 
@@ -53,7 +55,11 @@ bug or feature. You can also join us on Slack to discuss ideas.
 
 Thanks to these awesome contributors! 🧘
 
-<a href="https://github.com/heylinda/heylinda-app/graphs/contributors"><img src="https://opencollective.com/heylinda/contributors.svg?width=890&button=false" /></a>
+[![](https://github.com/trentmercer.png?size=50)](https://github.com/trentmercer)
+[![](https://github.com/watadarkstar.png?size=50)](https://github.com/watadarkstar)
+[![](https://github.com/AliNisarAhmed.png?size=50)](https://github.com/AliNisarAhmed)
+[![](https://github.com/lsmacedo.png?size=50)](https://github.com/lsmacedo)
+[![](https://github.com/alexandrvicente.png?size=50)](https://github.com/alexandrvicente)
 
 ### Sponsors
 
@@ -62,6 +68,7 @@ Thank you to all our sponsors! 🥇
 <a href="https://opencollective.com/heylinda/sponsor/0/website" target="_blank"><img src="https://opencollective.com/heylinda/sponsor/0/avatar.svg"></a>
 <a href="https://opencollective.com/heylinda/sponsor/1/website" target="_blank"><img src="https://opencollective.com/heylinda/sponsor/1/avatar.svg"></a>
 <a href="https://opencollective.com/heylinda/sponsor/2/website" target="_blank"><img src="https://opencollective.com/heylinda/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/heylinda/sponsor/3/website" target="_blank"><img src="https://opencollective.com/heylinda/sponsor/3/avatar.svg"></a>
 
 ### Backers
 
